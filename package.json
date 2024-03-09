@@ -13,7 +13,8 @@
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^9.8.1",
     "install": "^0.13.0",
-    "react": "^18.1.0",
+    "react": "^17.0.2",
+
     "react-dom": "^18.1.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
