@@ -15,7 +15,7 @@ function Search({ hideButtons = false }) {
 
     const search = (e) => {
         e.preventDefault();
-        console.log('You hit the Google Search button : ',input);
+        console.log('You hit the Yosher Search button : ',input);
 
         //history.push('/search');
         dispatch({
