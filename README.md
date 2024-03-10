@@ -33,12 +33,14 @@ Create a .env file in the root directory and add your Google Programmable Search
 
 ```bash
 REACT_APP_API_KEY=your_api_key_here
+```
 
 
 Start the development server:
 
 ```bash
 npm start
+```
 
 ## Usage
 Access the deployed application or run it locally.
