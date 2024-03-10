@@ -22,12 +22,13 @@ Yosher is a web application developed using ReactJS, CSS, and Google Programmabl
 
 ```bash
 git clone https://github.com/your-username/Yosher.git
+```
 
 Install dependencies:
 ```bash
 cd Yosher
 npm install
-
+```
 Create a .env file in the root directory and add your Google Programmable Search Engine API key:
 
 ```bash
