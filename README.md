@@ -1,6 +1,6 @@
 # Yosher
 
-Yosher is a web application developed using ReactJS, CSS, and Google Programmable Search Engine API. It allows users to search for information using a custom search engine powered by Google. Additionally, the design of the logo for Yosher has been created using Figma.
+Yosher is a web application developed using ReactJS, CSS, and Search Engine API. It allows users to search for information using a custom search engine powered by Google. Additionally, the design of the logo for Yosher has been created using Figma.
 
 ## Features
 
