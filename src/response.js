@@ -7,7 +7,7 @@ export default {
     "queries": {
       "request": [
         {
-          "title": "Google Custom Search - wilson",
+          "title": "Google Custom Search ",
           "totalResults": "1020000000",
           "searchTerms": "wilson",
           "count": 10,
@@ -20,7 +20,7 @@ export default {
       ],
       "nextPage": [
         {
-          "title": "Google Custom Search - wilson",
+          "title": "Google Custom Search ",
           "totalResults": "1020000000",
           "searchTerms": "wilson",
           "count": 10,
